@@ -21,6 +21,7 @@ ManiMator is an AI-powered platform that transforms scientific text into engagin
 - **Styling**: TailwindCSS
 
 ## Project Structure
+```t
 ManiMator/
 ├── frontend/ # Next.js frontend application
 ├── backend/ # Python FastAPI backend
